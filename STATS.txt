@@ -1,0 +1,11 @@
+d4_entries=1140
+d4_phrases=1095
+d2r_raw_entries=824
+d2r_entries=824
+d2r_phrases=755
+d2r_overlap_phrases_with_d4=70
+d2r_overlap_entries_dropped=79
+d2r_entries_added_to_merge=745
+merged_entries=1885
+merged_phrases=1780
+unique_pinyin=1855
