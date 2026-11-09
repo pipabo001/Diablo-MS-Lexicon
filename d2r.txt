@@ -957,6 +957,15 @@ yisenhatedeguangzhilaotie	1	依森哈特的光之烙铁
 yisenhatedezhaojia	1	依森哈特的招架
 yisenhatedewaike	1	依森哈特的外壳
 yisenhatedejiaokui	1	依森哈特的角盔
+kongjudeyiji	1	恐惧的遗迹
+dibiaoanhei	1	地表暗黑
+anheikelong	1	暗黑克隆
+runiuchuansongmen	1	乳牛传送门
+nainiuchuansongmen	1	奶牛传送门
+diyuruniupucong	1	地狱乳牛仆从
+diyunainiupucong	1	地狱奶牛仆从
+legacyofterror	1	恐惧的遗迹
+diabloclone	1	暗黑克隆
 fangxuezhe	1	放血者
 huogenhui	1	祸根之灰
 manade	1	马纳德的治疗

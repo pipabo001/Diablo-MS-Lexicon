@@ -314,6 +314,17 @@ add("天使的衣装", "闪蝠之躯", "墓穴之脊", "夺人目", "侠盗之�
     "剑卫", "恶魔角尖", "钢铁面纱", "无形之刃", "刽子手的裁决",
     "依森哈特的军械", "依森哈特的光之烙铁", "依森哈特的招架", "依森哈特的外壳", "依森哈特的角盔")
 
+# ===== 补强：国际/台服「恐惧的遗迹」30周年活动（2026-11-13~11-19 PST）=====
+# 来源：https://news.blizzard.com/en-us/article/24315743/celebrate-diablos-30th-anniversary-with-legacy-of-terror
+#        https://news.blizzard.com/zh-tw/article/24315743/30
+# 国服尚未发对应新闻；收录台服官译简体写法，以及长期通行的「暗黑克隆」「奶牛」对照。
+# 不收录第三方「恐怖遗产」等非官译。
+add("恐惧的遗迹", "地表暗黑", "暗黑克隆",
+    "乳牛传送门", "奶牛传送门",
+    "地狱乳牛仆从", "地狱奶牛仆从")
+add("恐惧的遗迹", py="legacyofterror")
+add("暗黑克隆", py="diabloclone")
+
 add("放血者", py="fangxuezhe")
 add("祸根之灰", py="huogenhui")
 add("火蝠之影", py="huofuzhiying")
